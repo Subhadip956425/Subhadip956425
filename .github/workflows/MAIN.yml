@@ -14,9 +14,18 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Add a debug step to log GitHub user contributions data
+      - name: Log GitHub User Contributions Data
+        run: |
+          echo "Fetching contributions for user: AravindaJogi"
+      
       # Generate snake game from GitHub contributions graph
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v2.1.0 # Using a specific version
+        uses: Platane/snk@v2.1.0
         with:
           github_user_name: Subhadip956425
           outputs: |
