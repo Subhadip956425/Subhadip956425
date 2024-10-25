@@ -1,4 +1,4 @@
-![logo](https://github.com/Subhadip956425/Subhadip956425/blob/main/Subhadip%20GUCHHAIT.jpg)
+![logo](https://github.com/Subhadip956425/Subhadip956425/blob/main/Banner.png)
 
 # 💫 About Me:
 
