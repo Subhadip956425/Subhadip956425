@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      Hi 👋, I'm Subhadip Guchhait<br>
+<!--       Hi 👋, I'm Subhadip Guchhait<br>
       💡 Aspiring Software Engineer, Web3, and Blockchain Developer<br>
       🖥️ Proficient in Java, Python, C, Solidity<br>
       🌐 Experienced in HTML, CSS, JavaScript, React for web development<br>
@@ -14,7 +14,19 @@
       📊 Keen interest in Cryptocurrency and Smart Contracts<br>
       🚀 Always eager to explore new technologies and frameworks<br>
       🎯 Aiming to contribute to innovative projects in the tech industry<br>
-      👥 Collaborative team player with a passion for problem-solving
+      👥 Collaborative team player with a passion for problem-solving -->
+      👋 Hi, I'm Subhadip Guchhait, a passionate Full Stack Developer currently pursuing B.Tech in Computer Science & Engineering from Techno International Batanagar.
+
+With a strong foundation in Java, Spring Boot, React.js, and Web3 technologies, I build secure, scalable, and real-time applications. I’ve led full-stack development of projects ranging from crypto trading platforms to blockchain-based document verification systems.
+
+🔐 My interests lie in developing production-grade applications, integrating DevOps workflows (Docker, CI/CD), and exploring Blockchain, Smart Contracts, and AI integrations.
+
+💡 I love working on real-world problems, collaborating in agile environments, and learning new technologies along the way.
+
+Tech Stack:
+Java, Spring Boot, React.js, Node.js, REST APIs, MongoDB, MySQL, Docker, AWS, Solidity, Web3.js
+
+📌 Currently open to internships and entry-level SDE/Full Stack/Web3 roles. Let’s connect and build something great together!
     </td>
     <td>
       <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" style="max-width: 100%;">
