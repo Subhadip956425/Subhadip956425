@@ -52,7 +52,7 @@ Java, Spring Boot, React.js, Node.js, REST APIs, MongoDB, MySQL, Docker, AWS, So
 [![An image of @subhadip956425's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhadip956425)](https://holopin.io/@subhadip956425)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subhadip956425&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+![Subhadip's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Subhadip956425&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
