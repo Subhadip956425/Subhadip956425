@@ -1,4 +1,4 @@
-![logo](https://github.com/Subhadip956425/Subhadip956425/blob/main/Banner.png)
+![logo](https://github.com/Subhadip956425/Subhadip956425/blob/main/Banner.jpg)
 
 # 💫 About Me:
 
