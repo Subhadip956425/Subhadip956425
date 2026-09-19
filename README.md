@@ -1,50 +1,52 @@
 ![logo](https://github.com/Subhadip956425/Subhadip956425/blob/main/Banner.jpg)
 
-# 💫 About Me:
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/light.svg">
+    <img alt="Subhadip Guchhait" src="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/light.svg">
+  </picture>
+</div>
 
-<table>
-  <tr>
-    <td>
-<!--       Hi 👋, I'm Subhadip Guchhait<br>
-      💡 Aspiring Software Engineer, Web3, and Blockchain Developer<br>
-      🖥️ Proficient in Java, Python, C, Solidity<br>
-      🌐 Experienced in HTML, CSS, JavaScript, React for web development<br>
-      🧠 Strong in Data Structures, Algorithms, and Object-Oriented Programming (OOP)<br>
-      🔗 Passionate about Blockchain and decentralized solutions<br>
-      📊 Keen interest in Cryptocurrency and Smart Contracts<br>
-      🚀 Always eager to explore new technologies and frameworks<br>
-      🎯 Aiming to contribute to innovative projects in the tech industry<br>
-      👥 Collaborative team player with a passion for problem-solving -->
-      👋 Hi, I'm Subhadip Guchhait, a passionate Full Stack Developer currently pursuing B.Tech in Computer Science & Engineering from Techno International Batanagar.
+<br/>
 
-With a strong foundation in Java, Spring Boot, React.js, and Web3 technologies, I build secure, scalable, and real-time applications. I’ve led full-stack development of projects ranging from crypto trading platforms to blockchain-based document verification systems.
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Subhadip956425&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+  <br/>
+  <img width="49%" src="https://github-readme-stats-theta-liard-13.vercel.app/api?username=Subhadip956425&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-theta-liard-13.vercel.app/api/top-langs/?username=Subhadip956425&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+</div>
 
-🔐 My interests lie in developing production-grade applications, integrating DevOps workflows (Docker, CI/CD), and exploring Blockchain, Smart Contracts, and AI integrations.
+<br/>
 
-💡 I love working on real-world problems, collaborating in agile environments, and learning new technologies along the way.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/output/github-snake.svg" />
+  </picture>
+</div>
 
-Tech Stack:
-Java, Spring Boot, React.js, Node.js, REST APIs, MongoDB, MySQL, Docker, AWS, Solidity, Web3.js
+<br/>
 
-📌 Currently open to internships and entry-level SDE/Full Stack/Web3 roles. Let’s connect and build something great together!
-    </td>
-    <td>
-      <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" style="max-width: 100%;">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://linkedin.com/in/subhadip-guchhait-675395252">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/itz_subhadip106">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/subhadipguchhait.guchhait.3">
+    <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=108981&labelColor=0A101F" alt="Facebook" />
+  </a>
+</div>
 
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subhadipguchhait.guchhait.3?mibextid=ZbWKwL ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_subhadip106?igsh=YzljYTk1ODg3Zg== ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadip-guchhait-675395252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) 
+<br/>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=plastic&logo=remix&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Subhadip956425&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Subhadip956425&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadip956425&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Subhadip956425&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -53,9 +55,3 @@ Java, Spring Boot, React.js, Node.js, REST APIs, MongoDB, MySQL, Docker, AWS, So
 
 ### 🔝 Top Contributed Repo
 ![Subhadip's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Subhadip956425&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-![snake gif](https://github.com/Subhadip956425/Subhadip956425/blob/output/github-contribution-grid-snake.gif)
