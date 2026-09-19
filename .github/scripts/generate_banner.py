@@ -168,8 +168,11 @@ def generate_svg(theme="dark"):
     path_3 = " ".join([f"M{x+GRID_OFFSET_X} {y+GRID_OFFSET_Y}h1" for x, y in so_coords_ordered])
 
     svg.append(f'<path d="{path_1}" stroke="{portrait_color}" stroke-width="2" shape-rendering="crispEdges" opacity="0">')
-    svg.append(f'  <animate attributeName="opacity" values="0;0;1;1;1;1;1;1;0" keyTimes="0;0.21;0.28;0.42;0.51;0.65;0.74;0.88;0.95" dur="14.2s" repeatCount="indefinite"/>')
+    
+    # FIX: Added ;0 to values and ;1 to keyTimes to complete the 100% animation cycle
+    svg.append(f'  <animate attributeName="opacity" values="0;0;1;1;1;1;1;1;0;0" keyTimes="0;0.21;0.28;0.42;0.51;0.65;0.74;0.88;0.95;1" dur="14.2s" repeatCount="indefinite"/>')
     svg.append(f'  <animate attributeName="d" values="{path_1};{path_1};{path_2};{path_2};{path_3};{path_3};{path_1}" keyTimes="0;0.28;0.42;0.51;0.65;0.74;1" dur="14.2s" repeatCount="indefinite"/>')
+    
     svg.append('</path>')
 
     svg.append('</svg>')
