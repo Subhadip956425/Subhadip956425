@@ -6,9 +6,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/light.svg" />
-    <img width="100%" alt="Subhadip Guchhait" src="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+    <img width="100%" alt="Subhadip Guchhait" src="./dark.svg" />
   </picture>
 </div>
 
