@@ -1,10 +1,14 @@
-![logo](https://github.com/Subhadip956425/Subhadip956425/blob/main/Banner.jpg)
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/Banner.jpg" alt="Header Banner" />
+</div>
+
+<br />
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/light.svg">
-    <img alt="Subhadip Guchhait" src="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/light.svg" />
+    <img width="100%" alt="Subhadip Guchhait" src="https://raw.githubusercontent.com/Subhadip956425/Subhadip956425/main/dark.svg" />
   </picture>
 </div>
 
