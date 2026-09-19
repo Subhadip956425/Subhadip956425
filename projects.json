@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AI Career Management",
+    "description": "ML-driven platform for resume analysis and career recommendations.",
+    "tech": ["Spring Boot", "React.js", "Flask", "Scikit-learn"],
+    "link": "https://github.com/Subhadip956425/AI_Integrated_Careere_Management_Portal"
+  },
+  {
+    "name": "NeuroFleetX",
+    "description": "AI-driven fleet management and analytics platform.",
+    "tech": ["Java", "Spring Boot", "Docker", "Machine Learning"],
+    "link": "https://github.com/Subhadip956425/NeuroFleetX"
+  },
+  {
+    "name": "Document Verification",
+    "description": "Blockchain system using hash-based authentication.",
+    "tech": ["Solidity", "Web3.js", "IPFS", "MetaMask"],
+    "link": "https://github.com/Subhadip956425/DocumentVerificationSystem"
+  }
+]
