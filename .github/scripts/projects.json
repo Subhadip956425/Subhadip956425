@@ -1,0 +1,42 @@
+[
+  {
+    "repo": "Subhadip956425/AI_Integrated_Careere_Management_Portal",
+    "name": "AI Career Management",
+    "description": "ML-driven platform for resume analysis and career recommendations.",
+    "tags": ["Spring Boot", "React.js", "Flask", "Scikit-learn"],
+    "logo": "AI_Integrated_Careere_Management_Portal.jpg",
+    "pushed_at": "2025-12-23T10:00:00Z"
+  },
+  {
+    "repo": "Subhadip956425/NeuroFleetX",
+    "name": "NeuroFleetX",
+    "description": "AI-driven fleet management and analytics platform.",
+    "tags": ["Java", "Spring Boot", "Docker", "Machine Learning"],
+    "logo": "NeuroFleetX.png",
+    "pushed_at": "2026-01-25T14:30:00Z"
+  },
+  {
+    "repo": "Subhadip956425/DocumentVerification_System",
+    "name": "Authen Chain (Document Verification)",
+    "description": "Blockchain-based document validation system utilizing smart contracts and IPFS storage.",
+    "tags": ["Solidity", "Web3.js", "IPFS", "MetaMask"],
+    "logo": "DocumentVerificationSystem.png",
+    "pushed_at": "2025-07-09T09:15:00Z"
+  },
+  {
+    "repo": "Subhadip956425/AuthenAvenue",
+    "name": "Authen Avenue (Crypto Trading)",
+    "description": "Real-time cryptocurrency trading platform with market analytics and encrypted authentication.",
+    "tags": ["Java", "Spring Boot", "React", "Encryption"],
+    "logo": "AuthenAvenue.jpg",
+    "pushed_at": "2025-07-31T11:00:00Z"
+  },
+  {
+    "repo": "Subhadip956425/TaskOrbit",
+    "name": "TaskOrbit (Project Management)",
+    "description": "Subscription-based project management system equipped with real-time team communication channels.",
+    "tags": ["Spring Boot", "React", "Redux", "Tailwind CSS"],
+    "logo": "Taskorbit.png",
+    "pushed_at": "2025-08-02T08:00:00Z"
+  }
+]
