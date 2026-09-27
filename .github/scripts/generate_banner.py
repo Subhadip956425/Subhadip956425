@@ -138,7 +138,7 @@ def generate_svg(theme="dark"):
       f'<rect x="450" y="120" width="230" height="24" rx="4"'
       f' fill="{portrait_color}"/>',
       f'<text x="460" y="137" font-family="monospace" font-size="14"'
-      f' font-weight="bold" fill="{PALETTE["bg"]}">subhadip.connect@gmail.com</text>',
+      f' font-weight="bold" fill="{PALETTE["bg"]}">subhadipguchhait106@gmail.com</text>',
   ]
 
   start_y = 170
